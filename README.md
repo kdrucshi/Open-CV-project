@@ -11,4 +11,4 @@ Counting fingers
   ### ![hand_convex](https://github.com/user-attachments/assets/3da12dc2-61ea-42e3-b35f-fdbd4e70f525)
 - After that we will calculate centre of the hand, and will you it to calculate distance to outer points at the edge of the hand.
 - Thus, applying conditions we can calculate number of fingers that are up hence increasing counter.
-![hand_convex](https://github.com/user-attachments/assets/3da12dc2-61ea-42e3-b35f-fdbd4e70f525)
+
